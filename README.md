@@ -1,4 +1,3 @@
-<!-- ![banner](gif/chip.gif) -->
 ![banner](img/banner.PNG)
 
 
