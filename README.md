@@ -29,4 +29,4 @@ Fun fact: I don't remember <strong>my first line of code</strong><br>
   </a>
 </p>
 
-<img src='img/bottom.svg'>
+<img src='./img/Bottom.SVG'>
