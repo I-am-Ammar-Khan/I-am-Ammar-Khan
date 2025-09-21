@@ -15,7 +15,10 @@ Beyond tech, I love expressing creativity through **photography**, **calligraphy
 
 
 <p align="center">
+
+  <a href="https://www.instagram.com/i_am__ammar_khan/" target="_blank">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=111" alt="Instagram"/>
+  </a>
   <a href="https://x.com/I_am_ammar_khan" target="_blank">
     <img src="https://img.shields.io/badge/twitter-%25231DA1F2.svg?&style=for-the-badge&logo=x&logoColor=white&color=111" alt="Twitter"/>
   </a>
